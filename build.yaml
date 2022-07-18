@@ -17,3 +17,5 @@ include:
     shield: corne-pro_left
   - board: nrfmacro
     shield: corne-pro_right
+  - board: nrfmacro
+    shield: settings-reset
